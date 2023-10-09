@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="{558DEC5C-8B40-EA06-0889-B4DDB91AB6CF}|">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1e16895b-e4e1-4df9-9fe2-3c96e126ab5e" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/VerticalLayoutGroup.cs">
+    <Files>
+      <File FileName="Assets/Scripts/InventoryManager.cs" Line="27" Column="6" />
+      <File FileName="Assets/Scripts/Inventory.cs" Line="60" Column="34" />
+      <File FileName="Assets/Scripts/Slot.cs" Line="42" Column="1" />
+      <File FileName="Assets/Scripts/Player.cs" Line="6" Column="2" />
+      <File FileName="Assets/Scripts/Knapsack.cs" Line="18" Column="1" />
+      <File FileName="Assets/Scripts/ItemUI.cs" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/ContentSizeFitter.cs" Line="14" Column="72" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/VerticalLayoutGroup.cs" Line="7" Column="70" />
+      <File FileName="Library/PackageCache/com.unity.ugui@1.0.0/Runtime/UI/Core/Layout/HorizontalLayoutGroup.cs" Line="10" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BagSystem" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Plugins" expanded="True">
+                <Node name=".vs" expanded="True">
+                  <Node name="LitJSON" expanded="True">
+                    <Node name="xs" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Scripts" expanded="True">
+                <Node name="Item" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
